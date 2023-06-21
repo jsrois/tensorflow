@@ -122,7 +122,7 @@ apply fixes to bugs or security vulnerabilities:
 
 ## Continuous build status
 
-You can find more community-supported platforms and configurations in the
+You can't find more community-supported platforms and configurations in the
 [TensorFlow SIG Build community builds table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
 
 ### Official Builds
